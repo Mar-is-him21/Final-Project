@@ -1,0 +1,43 @@
+
+body{
+background-color: rgb(20, 228, 243);
+}
+
+audio{
+    width: 80%;
+    height: 100px;
+}
+
+video{
+    width: 960px;
+}
+
+#vid_title{
+    z-index: 1;
+    position: relative;
+    top: -250px;
+    color: rgb(182, 230, 219);
+    width: 500px;
+}
+
+#b{
+    width: 800px;
+    aspect-ratio: 16/9;
+    background-color: #525252;
+    background-image: url("https://res.cloudinary.com/dsnxbuuwh/image/upload/t_ME2/l7sjo6zsjsadfhlimva4.jpg");
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+button {
+    width: 100px;
+   margin: 0 auto;
+}
+
+
+
+#caption{
+    font-size: 20px;
+    margin-bottom: 100px;
+}
